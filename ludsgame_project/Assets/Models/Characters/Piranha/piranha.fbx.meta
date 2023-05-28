@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 421c34d480f714249b578a283799ce20
+timeCreated: 1435774818
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: all_controls
+    100002: all_iks
+    100004: corpo
+    100006: crista
+    100008: curve1
+    100010: curve3
+    100012: curve4
+    100014: curve5
+    100016: Hi_dentes
+    100018: ikHandle1
+    100020: joint10
+    100022: joint11
+    100024: joint12
+    100026: joint13
+    100028: joint14
+    100030: joint15
+    100032: joint16
+    100034: joint17
+    100036: joint20
+    100038: joint6
+    100040: joint7
+    100042: joint7 1
+    100044: joint9
+    100046: L_eye
+    100048: L_nadadeira
+    100050: lingua
+    100052: Low_dentes
+    100054: malha1
+    100056: nurbsCircle1
+    100058: nurbsCircle2
+    100060: Pig_CAGE:polySurface56
+    100062: //RootNode
+    100064: R_eye
+    100066: R_nadadeira
+    400000: all_controls
+    400002: all_iks
+    400004: corpo
+    400006: crista
+    400008: curve1
+    400010: curve3
+    400012: curve4
+    400014: curve5
+    400016: Hi_dentes
+    400018: ikHandle1
+    400020: joint10
+    400022: joint11
+    400024: joint12
+    400026: joint13
+    400028: joint14
+    400030: joint15
+    400032: joint16
+    400034: joint17
+    400036: joint20
+    400038: joint6
+    400040: joint7
+    400042: joint7 1
+    400044: joint9
+    400046: L_eye
+    400048: L_nadadeira
+    400050: lingua
+    400052: Low_dentes
+    400054: malha1
+    400056: nurbsCircle1
+    400058: nurbsCircle2
+    400060: Pig_CAGE:polySurface56
+    400062: //RootNode
+    400064: R_eye
+    400066: R_nadadeira
+    2300000: Pig_CAGE:polySurface56
+    3300000: Pig_CAGE:polySurface56
+    4300000: Pig_CAGE:polySurface56
+    4300002: corpo
+    4300004: L_eye
+    4300006: R_eye
+    4300008: lingua
+    4300010: L_nadadeira
+    4300012: R_nadadeira
+    4300014: crista
+    4300016: Low_dentes
+    4300018: Hi_dentes
+    7400000: piranha_iddle
+    7400002: piranha_hit
+    9500000: //RootNode
+    13700000: corpo
+    13700002: crista
+    13700004: Hi_dentes
+    13700006: L_eye
+    13700008: L_nadadeira
+    13700010: lingua
+    13700012: Low_dentes
+    13700014: R_eye
+    13700016: R_nadadeira
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: piranha_iddle
+      takeName: piranha
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: all_controls
+        weight: 1
+      - path: all_controls/curve1
+        weight: 1
+      - path: all_controls/curve3
+        weight: 1
+      - path: all_controls/curve5
+        weight: 1
+      - path: all_controls/nurbsCircle2
+        weight: 1
+      - path: all_controls/nurbsCircle2/curve4
+        weight: 1
+      - path: all_controls/nurbsCircle2/nurbsCircle1
+        weight: 1
+      - path: joint13
+        weight: 1
+      - path: joint13/joint6
+        weight: 1
+      - path: joint13/joint6/joint7 1
+        weight: 1
+      - path: joint13/joint9
+        weight: 1
+      - path: joint13/joint9/joint10
+        weight: 1
+      - path: joint13/joint11
+        weight: 1
+      - path: joint13/joint11/joint12
+        weight: 1
+      - path: joint13/joint14
+        weight: 1
+      - path: joint13/joint14/joint15
+        weight: 1
+      - path: joint13/joint14/joint15/joint16
+        weight: 1
+      - path: joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint13/joint20
+        weight: 1
+      - path: joint13/joint20/joint7
+        weight: 1
+      - path: malha1
+        weight: 1
+      - path: malha1/corpo
+        weight: 1
+      - path: malha1/crista
+        weight: 1
+      - path: malha1/Hi_dentes
+        weight: 1
+      - path: malha1/L_eye
+        weight: 1
+      - path: malha1/L_nadadeira
+        weight: 1
+      - path: malha1/lingua
+        weight: 1
+      - path: malha1/Low_dentes
+        weight: 1
+      - path: malha1/R_eye
+        weight: 1
+      - path: malha1/R_nadadeira
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: piranha_hit
+      takeName: piranha
+      firstFrame: 30
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: all_controls
+        weight: 1
+      - path: all_controls/curve1
+        weight: 1
+      - path: all_controls/curve3
+        weight: 1
+      - path: all_controls/curve5
+        weight: 1
+      - path: all_controls/nurbsCircle2
+        weight: 1
+      - path: all_controls/nurbsCircle2/curve4
+        weight: 1
+      - path: all_controls/nurbsCircle2/nurbsCircle1
+        weight: 1
+      - path: all_iks
+        weight: 1
+      - path: all_iks/ikHandle1
+        weight: 1
+      - path: joint13
+        weight: 1
+      - path: joint13/joint6
+        weight: 1
+      - path: joint13/joint6/joint7 1
+        weight: 1
+      - path: joint13/joint9
+        weight: 1
+      - path: joint13/joint9/joint10
+        weight: 1
+      - path: joint13/joint11
+        weight: 1
+      - path: joint13/joint11/joint12
+        weight: 1
+      - path: joint13/joint14
+        weight: 1
+      - path: joint13/joint14/joint15
+        weight: 1
+      - path: joint13/joint14/joint15/joint16
+        weight: 1
+      - path: joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint13/joint20
+        weight: 1
+      - path: joint13/joint20/joint7
+        weight: 1
+      - path: malha1
+        weight: 1
+      - path: malha1/corpo
+        weight: 1
+      - path: malha1/crista
+        weight: 1
+      - path: malha1/Hi_dentes
+        weight: 1
+      - path: malha1/L_eye
+        weight: 1
+      - path: malha1/L_nadadeira
+        weight: 1
+      - path: malha1/lingua
+        weight: 1
+      - path: malha1/Low_dentes
+        weight: 1
+      - path: malha1/R_eye
+        weight: 1
+      - path: malha1/R_nadadeira
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

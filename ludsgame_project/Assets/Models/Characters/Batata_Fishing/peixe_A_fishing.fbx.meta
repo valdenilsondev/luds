@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 2dedeb08f7c43404eabf7df2de4463b6
+timeCreated: 1462220528
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _corpo
+    100002: crista
+    100004: joint1
+    100006: joint12
+    100008: joint2
+    100010: joint3
+    100012: joint4
+    100014: joint5
+    100016: joint6
+    100018: joint7
+    100020: joint8
+    100022: joint8 1
+    100024: joint9
+    100026: L_nadadeira
+    100028: L_olho
+    100030: L_palpebra
+    100032: malha1
+    100034: //RootNode
+    100036: R_nadadeira
+    100038: R_olho
+    100040: R_palpebra
+    100042: skeleton
+    400000: _corpo
+    400002: crista
+    400004: joint1
+    400006: joint12
+    400008: joint2
+    400010: joint3
+    400012: joint4
+    400014: joint5
+    400016: joint6
+    400018: joint7
+    400020: joint8
+    400022: joint8 1
+    400024: joint9
+    400026: L_nadadeira
+    400028: L_olho
+    400030: L_palpebra
+    400032: malha1
+    400034: //RootNode
+    400036: R_nadadeira
+    400038: R_olho
+    400040: R_palpebra
+    400042: skeleton
+    4300000: _corpo
+    4300002: crista
+    4300004: R_nadadeira
+    4300006: L_nadadeira
+    4300008: R_olho
+    4300010: R_palpebra
+    4300012: L_olho
+    4300014: L_palpebra
+    7400000: fishing_brown
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: _corpo
+    13700002: crista
+    13700004: L_nadadeira
+    13700006: L_olho
+    13700008: L_palpebra
+    13700010: R_nadadeira
+    13700012: R_olho
+    13700014: R_palpebra
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fishing_brown
+      takeName: fishing_v2
+      firstFrame: 1
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: malha1
+        weight: 1
+      - path: malha1/_corpo
+        weight: 1
+      - path: malha1/crista
+        weight: 1
+      - path: malha1/L_nadadeira
+        weight: 1
+      - path: malha1/L_olho
+        weight: 1
+      - path: malha1/L_palpebra
+        weight: 1
+      - path: malha1/R_nadadeira
+        weight: 1
+      - path: malha1/R_olho
+        weight: 1
+      - path: malha1/R_palpebra
+        weight: 1
+      - path: skeleton
+        weight: 1
+      - path: skeleton/joint6
+        weight: 1
+      - path: skeleton/joint6/joint1
+        weight: 1
+      - path: skeleton/joint6/joint1/joint4
+        weight: 1
+      - path: skeleton/joint6/joint1/joint4/joint5
+        weight: 1
+      - path: skeleton/joint6/joint1/joint7
+        weight: 1
+      - path: skeleton/joint6/joint1/joint7/joint8 1
+        weight: 1
+      - path: skeleton/joint6/joint1/joint9
+        weight: 1
+      - path: skeleton/joint6/joint1/joint9/joint2
+        weight: 1
+      - path: skeleton/joint6/joint1/joint9/joint2/joint3
+        weight: 1
+      - path: skeleton/joint6/joint1/joint12
+        weight: 1
+      - path: skeleton/joint6/joint1/joint12/joint8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LoadingSelection
+  - games_cube
+  - game_selection_box
+  - games_selection_box
+  - config_cube
+  - startscreen_back_btn
+  - config_selection_box
+  - mini_game_cube
+  - config_music_box
+  - config_sound_box
+  - button_continue
+  - button_stop
+  - BorgItem
+  - button_accept
+  - button_decline
+  - exit_btn
+  - tutorial_screen
+  - button_menu
+  - button_restart
+  - piranha
+  - Ocean
+  - FxTemporaire
+  - Floor3Ways
+  - TopDownObject
+  - ImpossibleObject
+  - TrunkJump
+  - button_minigames
+  - walk
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

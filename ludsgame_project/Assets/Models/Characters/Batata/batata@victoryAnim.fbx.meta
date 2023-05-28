@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 74f5e5c8361119b4bbc87b0ca115954c
+timeCreated: 1460747711
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: esqueleto
+    100004: ikHandle10
+    100006: ikHandle11
+    100008: ikHandle4
+    100010: ikHandle5
+    100012: ikHandle6
+    100014: ikHandle7
+    100016: ikHandle9
+    100018: joint10
+    100020: joint100
+    100022: joint100 1
+    100024: joint101
+    100026: joint101 1
+    100028: joint102
+    100030: joint102 1
+    100032: joint107
+    100034: joint108
+    100036: joint109
+    100038: joint110
+    100040: joint110 1
+    100042: joint111
+    100044: joint111 1
+    100046: joint115
+    100048: joint116
+    100050: joint117
+    100052: joint118
+    100054: joint119
+    100056: joint12
+    100058: joint120
+    100060: joint121
+    100062: joint122
+    100064: joint123
+    100066: joint124
+    100068: joint125
+    100070: joint13
+    100072: joint13 1
+    100074: joint14
+    100076: joint14 1
+    100078: joint15
+    100080: joint19
+    100082: joint20
+    100084: joint21
+    100086: joint23
+    100088: joint24
+    100090: joint24 1
+    100092: joint25
+    100094: joint26
+    100096: joint26 1
+    100098: joint28
+    100100: joint30
+    100102: joint32
+    100104: joint32 1
+    100106: joint33
+    100108: joint33 1
+    100110: joint34
+    100112: joint34 1
+    100114: joint35
+    100116: joint35 1
+    100118: joint36
+    100120: joint36 1
+    100122: joint37
+    100124: joint37 1
+    100126: joint38
+    100128: joint38 1
+    100130: joint39
+    100132: joint39 1
+    100134: joint4
+    100136: joint40
+    100138: joint40 1
+    100140: joint41
+    100142: joint41 1
+    100144: joint42
+    100146: joint42 1
+    100148: joint43
+    100150: joint43 1
+    100152: joint44
+    100154: joint44 1
+    100156: joint45
+    100158: joint45 1
+    100160: joint46
+    100162: joint46 1
+    100164: joint47
+    100166: joint5
+    100168: joint6
+    100170: joint7
+    100172: joint76
+    100174: joint8
+    100176: joint85
+    100178: joint88
+    100180: joint89
+    100182: joint9
+    100184: joint90
+    100186: joint91
+    100188: joint92
+    100190: joint93
+    100192: joint94
+    100194: joint95
+    100196: joint96
+    100198: joint97
+    100200: joint98
+    100202: joint99
+    400000: //RootNode
+    400002: esqueleto
+    400004: ikHandle10
+    400006: ikHandle11
+    400008: ikHandle4
+    400010: ikHandle5
+    400012: ikHandle6
+    400014: ikHandle7
+    400016: ikHandle9
+    400018: joint10
+    400020: joint100
+    400022: joint100 1
+    400024: joint101
+    400026: joint101 1
+    400028: joint102
+    400030: joint102 1
+    400032: joint107
+    400034: joint108
+    400036: joint109
+    400038: joint110
+    400040: joint110 1
+    400042: joint111
+    400044: joint111 1
+    400046: joint115
+    400048: joint116
+    400050: joint117
+    400052: joint118
+    400054: joint119
+    400056: joint12
+    400058: joint120
+    400060: joint121
+    400062: joint122
+    400064: joint123
+    400066: joint124
+    400068: joint125
+    400070: joint13
+    400072: joint13 1
+    400074: joint14
+    400076: joint14 1
+    400078: joint15
+    400080: joint19
+    400082: joint20
+    400084: joint21
+    400086: joint23
+    400088: joint24
+    400090: joint24 1
+    400092: joint25
+    400094: joint26
+    400096: joint26 1
+    400098: joint28
+    400100: joint30
+    400102: joint32
+    400104: joint32 1
+    400106: joint33
+    400108: joint33 1
+    400110: joint34
+    400112: joint34 1
+    400114: joint35
+    400116: joint35 1
+    400118: joint36
+    400120: joint36 1
+    400122: joint37
+    400124: joint37 1
+    400126: joint38
+    400128: joint38 1
+    400130: joint39
+    400132: joint39 1
+    400134: joint4
+    400136: joint40
+    400138: joint40 1
+    400140: joint41
+    400142: joint41 1
+    400144: joint42
+    400146: joint42 1
+    400148: joint43
+    400150: joint43 1
+    400152: joint44
+    400154: joint44 1
+    400156: joint45
+    400158: joint45 1
+    400160: joint46
+    400162: joint46 1
+    400164: joint47
+    400166: joint5
+    400168: joint6
+    400170: joint7
+    400172: joint76
+    400174: joint8
+    400176: joint85
+    400178: joint88
+    400180: joint89
+    400182: joint9
+    400184: joint90
+    400186: joint91
+    400188: joint92
+    400190: joint93
+    400192: joint94
+    400194: joint95
+    400196: joint96
+    400198: joint97
+    400200: joint98
+    400202: joint99
+    7400000: batata
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

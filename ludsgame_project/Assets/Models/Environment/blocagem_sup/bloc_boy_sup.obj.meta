@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 133bfa4072865114ab125aa91d6b2f82
+timeCreated: 1444386253
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:body
+    100004: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:hair
+    100006: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:lingua
+    100008: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:dentes_boy_sup:boy_glkp_animated:corpo
+    100010: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:hi_l_eyelid
+    100012: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:hi_r_eyelid
+    100014: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:l_eye
+    100016: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:low_l_eyelid1
+    100018: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:low_r_eyelid
+    100020: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:r_brow
+    100022: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:r_eye
+    100024: boy_sup:boy_glkp_animated:l_brow_boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo
+    100026: boy_sup:boy_glkp_animated:tudo_sup:pCylinder1_remo_topo_remo_meio_boy_sup:boy_glkp_animated:global_control
+    100028: sup:pCube1
+    400000: //RootNode
+    400002: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:body
+    400004: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:hair
+    400006: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:lingua
+    400008: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:dentes_boy_sup:boy_glkp_animated:corpo
+    400010: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:hi_l_eyelid
+    400012: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:hi_r_eyelid
+    400014: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:l_eye
+    400016: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:low_l_eyelid1
+    400018: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:low_r_eyelid
+    400020: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:r_brow
+    400022: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:r_eye
+    400024: boy_sup:boy_glkp_animated:l_brow_boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo
+    400026: boy_sup:boy_glkp_animated:tudo_sup:pCylinder1_remo_topo_remo_meio_boy_sup:boy_glkp_animated:global_control
+    400028: sup:pCube1
+    2300000: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:body
+    2300002: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:hair
+    2300004: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:lingua
+    2300006: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:dentes_boy_sup:boy_glkp_animated:corpo
+    2300008: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:hi_l_eyelid
+    2300010: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:hi_r_eyelid
+    2300012: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:l_eye
+    2300014: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:low_l_eyelid1
+    2300016: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:low_r_eyelid
+    2300018: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:r_brow
+    2300020: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:r_eye
+    2300022: boy_sup:boy_glkp_animated:l_brow_boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo
+    2300024: boy_sup:boy_glkp_animated:tudo_sup:pCylinder1_remo_topo_remo_meio_boy_sup:boy_glkp_animated:global_control
+    2300026: sup:pCube1
+    3300000: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:body
+    3300002: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:hair
+    3300004: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:lingua
+    3300006: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:dentes_boy_sup:boy_glkp_animated:corpo
+    3300008: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:hi_l_eyelid
+    3300010: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:hi_r_eyelid
+    3300012: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:l_eye
+    3300014: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:low_l_eyelid1
+    3300016: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:low_r_eyelid
+    3300018: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:r_brow
+    3300020: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:r_eye
+    3300022: boy_sup:boy_glkp_animated:l_brow_boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo
+    3300024: boy_sup:boy_glkp_animated:tudo_sup:pCylinder1_remo_topo_remo_meio_boy_sup:boy_glkp_animated:global_control
+    3300026: sup:pCube1
+    4300000: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:body
+    4300002: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:hair
+    4300004: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:corpo_boy_sup:boy_glkp_animated:lingua
+    4300006: boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:dentes_boy_sup:boy_glkp_animated:corpo
+    4300008: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:hi_l_eyelid
+    4300010: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:hi_r_eyelid
+    4300012: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:l_eye
+    4300014: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:low_l_eyelid1
+    4300016: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:low_r_eyelid
+    4300018: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:r_brow
+    4300020: boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo_boy_sup:boy_glkp_animated:r_eye
+    4300022: boy_sup:boy_glkp_animated:l_brow_boy_sup:boy_glkp_animated:eyes_boy_sup:boy_glkp_animated:boy_boy_sup:boy_fishing_boy_sup:boy_glkp_animated:tudo
+    4300024: boy_sup:boy_glkp_animated:tudo_sup:pCylinder1_remo_topo_remo_meio_boy_sup:boy_glkp_animated:global_control
+    4300026: sup:pCube1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

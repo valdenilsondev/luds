@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 6d628602b4320754cb070da03945d4b7
+timeCreated: 1446233367
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group10801
+    100004: Group11406
+    100006: Group11421
+    100008: Group11436
+    100010: Group11451
+    100012: Group11466
+    100014: Group11481
+    100016: Group11496
+    100018: Group13383
+    100020: Group13398
+    100022: Group13413
+    100024: Group13428
+    100026: ZBrush_defualt_group
+    400000: //RootNode
+    400002: Group10801
+    400004: Group11406
+    400006: Group11421
+    400008: Group11436
+    400010: Group11451
+    400012: Group11466
+    400014: Group11481
+    400016: Group11496
+    400018: Group13383
+    400020: Group13398
+    400022: Group13413
+    400024: Group13428
+    400026: ZBrush_defualt_group
+    2300000: Group10801
+    2300002: Group11406
+    2300004: Group11421
+    2300006: Group11436
+    2300008: Group11451
+    2300010: Group11466
+    2300012: Group11481
+    2300014: Group11496
+    2300016: Group13383
+    2300018: Group13398
+    2300020: Group13413
+    2300022: Group13428
+    2300024: ZBrush_defualt_group
+    3300000: Group10801
+    3300002: Group11406
+    3300004: Group11421
+    3300006: Group11436
+    3300008: Group11451
+    3300010: Group11466
+    3300012: Group11481
+    3300014: Group11496
+    3300016: Group13383
+    3300018: Group13398
+    3300020: Group13413
+    3300022: Group13428
+    3300024: ZBrush_defualt_group
+    4300000: Group10801
+    4300002: Group11406
+    4300004: Group11421
+    4300006: Group11436
+    4300008: Group11451
+    4300010: Group11466
+    4300012: Group11481
+    4300014: Group11496
+    4300016: Group13383
+    4300018: Group13398
+    4300020: Group13413
+    4300022: Group13428
+    4300024: ZBrush_defualt_group
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 200
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

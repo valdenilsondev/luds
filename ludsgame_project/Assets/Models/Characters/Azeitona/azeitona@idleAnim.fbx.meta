@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: bae4d9f3a4bac6743bd83a93f85bcb63
+timeCreated: 1457470817
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: esqueleto
+    100004: ikHandle11
+    100006: ikHandle12
+    100008: ikHandle13
+    100010: ikHandle14
+    100012: ikHandle6
+    100014: ikHandle7
+    100016: ikHandle9
+    100018: joint1
+    100020: joint14
+    100022: joint15
+    100024: joint2
+    100026: joint26
+    100028: joint27
+    100030: joint3
+    100032: joint34
+    100034: joint34 1
+    100036: joint35
+    100038: joint35 1
+    100040: joint36
+    100042: joint36 1
+    100044: joint37
+    100046: joint37 1
+    100048: joint38
+    100050: joint4
+    100052: joint44
+    100054: joint49
+    100056: joint5
+    100058: joint51
+    100060: joint52
+    100062: joint52 1
+    100064: joint53
+    100066: joint54
+    100068: joint54 1
+    100070: joint55
+    100072: joint55 1
+    100074: joint56
+    100076: joint57
+    100078: joint59
+    100080: joint63
+    100082: joint71
+    100084: joint75
+    100086: joint76
+    100088: joint77
+    100090: joint77 1
+    100092: joint78
+    100094: joint78 1
+    100096: joint79
+    100098: joint79 1
+    100100: joint84
+    100102: joint87
+    100104: joint88
+    100106: joint89
+    400000: //RootNode
+    400002: esqueleto
+    400004: ikHandle11
+    400006: ikHandle12
+    400008: ikHandle13
+    400010: ikHandle14
+    400012: ikHandle6
+    400014: ikHandle7
+    400016: ikHandle9
+    400018: joint1
+    400020: joint14
+    400022: joint15
+    400024: joint2
+    400026: joint26
+    400028: joint27
+    400030: joint3
+    400032: joint34
+    400034: joint34 1
+    400036: joint35
+    400038: joint35 1
+    400040: joint36
+    400042: joint36 1
+    400044: joint37
+    400046: joint37 1
+    400048: joint38
+    400050: joint4
+    400052: joint44
+    400054: joint49
+    400056: joint5
+    400058: joint51
+    400060: joint52
+    400062: joint52 1
+    400064: joint53
+    400066: joint54
+    400068: joint54 1
+    400070: joint55
+    400072: joint55 1
+    400074: joint56
+    400076: joint57
+    400078: joint59
+    400080: joint63
+    400082: joint71
+    400084: joint75
+    400086: joint76
+    400088: joint77
+    400090: joint77 1
+    400092: joint78
+    400094: joint78 1
+    400096: joint79
+    400098: joint79 1
+    400100: joint84
+    400102: joint87
+    400104: joint88
+    400106: joint89
+    7400000: azeitona
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

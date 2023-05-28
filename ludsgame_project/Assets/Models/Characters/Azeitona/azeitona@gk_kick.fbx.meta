@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: dd34fb5a3ab91a242b36cd6473ffefbe
+timeCreated: 1458586114
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _joint90
+    100002: //RootNode
+    100004: esqueleto
+    100006: ikHandle11
+    100008: ikHandle12
+    100010: ikHandle13
+    100012: ikHandle14
+    100014: ikHandle6
+    100016: ikHandle7
+    100018: ikHandle9
+    100020: joint1
+    100022: joint14
+    100024: joint15
+    100026: joint2
+    100028: joint26
+    100030: joint27
+    100032: joint3
+    100034: joint34
+    100036: joint34 1
+    100038: joint35
+    100040: joint35 1
+    100042: joint36
+    100044: joint36 1
+    100046: joint37
+    100048: joint37 1
+    100050: joint38
+    100052: joint4
+    100054: joint44
+    100056: joint49
+    100058: joint5
+    100060: joint51
+    100062: joint52
+    100064: joint52 1
+    100066: joint53
+    100068: joint54
+    100070: joint54 1
+    100072: joint55
+    100074: joint55 1
+    100076: joint56
+    100078: joint57
+    100080: joint59
+    100082: joint63
+    100084: joint71
+    100086: joint75
+    100088: joint76
+    100090: joint77
+    100092: joint77 1
+    100094: joint78
+    100096: joint78 1
+    100098: joint79
+    100100: joint79 1
+    100102: joint84
+    100104: joint87
+    100106: joint88
+    100108: joint89
+    100110: joint91
+    100112: joint92
+    100114: joint93
+    400000: _joint90
+    400002: //RootNode
+    400004: esqueleto
+    400006: ikHandle11
+    400008: ikHandle12
+    400010: ikHandle13
+    400012: ikHandle14
+    400014: ikHandle6
+    400016: ikHandle7
+    400018: ikHandle9
+    400020: joint1
+    400022: joint14
+    400024: joint15
+    400026: joint2
+    400028: joint26
+    400030: joint27
+    400032: joint3
+    400034: joint34
+    400036: joint34 1
+    400038: joint35
+    400040: joint35 1
+    400042: joint36
+    400044: joint36 1
+    400046: joint37
+    400048: joint37 1
+    400050: joint38
+    400052: joint4
+    400054: joint44
+    400056: joint49
+    400058: joint5
+    400060: joint51
+    400062: joint52
+    400064: joint52 1
+    400066: joint53
+    400068: joint54
+    400070: joint54 1
+    400072: joint55
+    400074: joint55 1
+    400076: joint56
+    400078: joint57
+    400080: joint59
+    400082: joint63
+    400084: joint71
+    400086: joint75
+    400088: joint76
+    400090: joint77
+    400092: joint77 1
+    400094: joint78
+    400096: joint78 1
+    400098: joint79
+    400100: joint79 1
+    400102: joint84
+    400104: joint87
+    400106: joint88
+    400108: joint89
+    400110: joint91
+    400112: joint92
+    400114: joint93
+    7400000: gk_kick
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: gk_kick
+      takeName: azeitona_goalkeeper
+      firstFrame: 290
+      lastFrame: 325
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .478713006
+        functionName: KickerActionCompleted
+        data: 
+        objectReferenceParameter: {fileID: 157030, guid: ed952c9112c13744588090795add1240,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: esqueleto
+        weight: 1
+      - path: esqueleto/ikHandle6
+        weight: 1
+      - path: esqueleto/ikHandle7
+        weight: 1
+      - path: esqueleto/ikHandle9
+        weight: 1
+      - path: esqueleto/ikHandle11
+        weight: 1
+      - path: esqueleto/ikHandle12
+        weight: 1
+      - path: esqueleto/ikHandle13
+        weight: 1
+      - path: esqueleto/ikHandle14
+        weight: 1
+      - path: esqueleto/joint26
+        weight: 1
+      - path: esqueleto/joint26/joint27
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint15
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint49
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint49/_joint90
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint49/_joint90/joint56
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint49/joint91
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint49/joint91/joint57
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint51
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint51/joint52
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint53
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint53/joint54
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint53/joint54/joint55
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint71
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint71/joint92
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint71/joint92/joint59
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint71/joint93
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint71/joint93/joint63
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint75
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint75/joint54
+          1
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint75/joint54
+          1/joint55 1
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint87
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint3/joint4/joint14/joint87/joint52
+          1
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint38
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint38/joint34
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint38/joint34/joint35
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint38/joint34/joint35/joint36
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint38/joint34/joint35/joint36/joint37
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint44
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint44/joint34 1
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint44/joint34 1/joint35
+          1
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint44/joint34 1/joint35
+          1/joint36 1
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint1/joint2/joint5/joint44/joint34 1/joint35
+          1/joint36 1/joint37 1
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint76
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint76/joint77
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint76/joint77/joint78
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint76/joint77/joint78/joint79
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint84
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint84/joint77 1
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint84/joint77 1/joint78 1
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint84/joint77 1/joint78 1/joint79 1
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint88
+        weight: 1
+      - path: esqueleto/joint26/joint27/joint88/joint89
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

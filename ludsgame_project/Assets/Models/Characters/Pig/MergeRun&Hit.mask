@@ -1,0 +1,190 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MergeRun&Hit
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: anim_global01
+    m_Weight: 1
+  - m_Path: anim_global01/controls01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_jaw01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_jaw01/locOri_jaw01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_l_ankle01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_l_arm01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_l_eyebrow01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_l_eyebrow01/locOri_l_eyebrow01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_l_lowerLid01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_l_lowerLid01/locOri_lowerLid01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_l_uperLid01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_l_uperLid01/locOri_l_upperLid01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_r_ankle01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_r_arm01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_r_eyebrow01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_r_eyebrow01/locOri_r_eyebrow01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_r_lowerLid01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_r_lowerLid01/locOri_r_lowerLid01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_r_uperLid01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/anim_r_uperLid01/locOri_r_upperLid01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_COG01/locDrv_COG01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_l_leg01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_l_leg01/anim_l_knee01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_r_leg01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_r_leg01/anim_r_knee01
+    m_Weight: 0
+  - m_Path: anim_global01/controls01/anim_tail01
+    m_Weight: 0
+  - m_Path: anim_global01/iks01
+    m_Weight: 0
+  - m_Path: anim_global01/iks01/rp_l_arm01
+    m_Weight: 0
+  - m_Path: anim_global01/iks01/rp_l_leg01
+    m_Weight: 0
+  - m_Path: anim_global01/iks01/rp_r_arm01
+    m_Weight: 0
+  - m_Path: anim_global01/iks01/rp_r_leg01
+    m_Weight: 0
+  - m_Path: anim_global01/skeleton01
+    m_Weight: 0
+  - m_Path: anim_global01/skeleton01/root01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/be_head01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_jaw01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_jaw01/be_jaw01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_dwneye01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_dwneye01/be_l_dwneye01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_ear_a01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_ear_a01/bnd_l_ear_b01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_ear_a01/bnd_l_ear_b01/be_l_ear_c01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_eye01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_eye01/be_l_eye01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_eyebrow01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_eyebrow01/be_l_eyebrow01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_shoulder01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_shoulder01/bnd_l_ankle01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_shoulder01/bnd_l_ankle01/be_l_hand01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_tigh01
+    m_Weight: 0
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_tigh01/bnd_l_knee01
+    m_Weight: 0
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_tigh01/bnd_l_knee01/be_l_foot01
+    m_Weight: 0
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_upeye01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_l_upeye01/be_l_upeye01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_dwneye01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_dwneye01/be_r_dwneye01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_ear_a01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_ear_a01/bnd_r_ear_b01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_ear_a01/bnd_r_ear_b01/be_r_ear_c01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_eye01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_eye01/be_r_eye01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_eyebrow01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_eyebrow01/be_r_eyebrow01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_shoulder01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_shoulder01/bnd_r_ankle01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_shoulder01/bnd_r_ankle01/be_r_hand01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_tigh01
+    m_Weight: 0
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_tigh01/bnd_r_knee01
+    m_Weight: 0
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_tigh01/bnd_r_knee01/be_r_foot01
+    m_Weight: 0
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_upeye01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_r_upeye01/be_r_upeye01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_tail01
+    m_Weight: 1
+  - m_Path: anim_global01/skeleton01/root01/bnd_root01/bnd_tail01/be_tail01
+    m_Weight: 1
+  - m_Path: model01
+    m_Weight: 0
+  - m_Path: model01/body_01
+    m_Weight: 0
+  - m_Path: model01/eyebrow_l_01
+    m_Weight: 0
+  - m_Path: model01/eyebrow_r_01
+    m_Weight: 0
+  - m_Path: model01/eyedown_l_01
+    m_Weight: 0
+  - m_Path: model01/eyedown_r_01
+    m_Weight: 0
+  - m_Path: model01/eyes
+    m_Weight: 0
+  - m_Path: model01/eyes/eye_l_01
+    m_Weight: 0
+  - m_Path: model01/eyes/eye_r_01
+    m_Weight: 0
+  - m_Path: model01/eyeup_l_01
+    m_Weight: 0
+  - m_Path: model01/eyeup_r_01
+    m_Weight: 0
+  - m_Path: model01/hair_01
+    m_Weight: 0
+  - m_Path: model01/tail_01
+    m_Weight: 0
+  - m_Path: model01/theets_01
+    m_Weight: 0
+  - m_Path: model01/tongue_01
+    m_Weight: 0

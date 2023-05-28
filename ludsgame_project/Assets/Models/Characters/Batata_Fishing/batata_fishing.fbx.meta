@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: 82805bf5f1148f247a8d8f5e5dc84ccc
+timeCreated: 1462217498
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: batata
+    100002: //RootNode
+    100004: esqueleto
+    100006: ikHandle10
+    100008: ikHandle11
+    100010: ikHandle4
+    100012: ikHandle5
+    100014: ikHandle6
+    100016: ikHandle7
+    100018: ikHandle9
+    100020: joint10
+    100022: joint100
+    100024: joint100 1
+    100026: joint101
+    100028: joint101 1
+    100030: joint102
+    100032: joint102 1
+    100034: joint107
+    100036: joint108
+    100038: joint109
+    100040: joint110
+    100042: joint110 1
+    100044: joint111
+    100046: joint111 1
+    100048: joint115
+    100050: joint116
+    100052: joint117
+    100054: joint118
+    100056: joint119
+    100058: joint12
+    100060: joint120
+    100062: joint121
+    100064: joint122
+    100066: joint123
+    100068: joint124
+    100070: joint125
+    100072: joint126
+    100074: joint127
+    100076: joint128
+    100078: joint129
+    100080: joint13
+    100082: joint13 1
+    100084: joint130
+    100086: joint131
+    100088: joint132
+    100090: joint133
+    100092: joint134
+    100094: joint14
+    100096: joint14 1
+    100098: joint15
+    100100: joint19
+    100102: joint20
+    100104: joint21
+    100106: joint23
+    100108: joint24
+    100110: joint24 1
+    100112: joint25
+    100114: joint26
+    100116: joint26 1
+    100118: joint28
+    100120: joint30
+    100122: joint32
+    100124: joint32 1
+    100126: joint33
+    100128: joint33 1
+    100130: joint34
+    100132: joint34 1
+    100134: joint35
+    100136: joint35 1
+    100138: joint36
+    100140: joint36 1
+    100142: joint37
+    100144: joint37 1
+    100146: joint38
+    100148: joint38 1
+    100150: joint39
+    100152: joint39 1
+    100154: joint4
+    100156: joint40
+    100158: joint40 1
+    100160: joint41
+    100162: joint41 1
+    100164: joint42
+    100166: joint42 1
+    100168: joint43
+    100170: joint43 1
+    100172: joint44
+    100174: joint44 1
+    100176: joint45
+    100178: joint45 1
+    100180: joint46
+    100182: joint46 1
+    100184: joint47
+    100186: joint5
+    100188: joint6
+    100190: joint7
+    100192: joint76
+    100194: joint8
+    100196: joint85
+    100198: joint88
+    100200: joint89
+    100202: joint9
+    100204: joint90
+    100206: joint91
+    100208: joint92
+    100210: joint93
+    100212: joint94
+    100214: joint95
+    100216: joint96
+    100218: joint97
+    100220: joint98
+    100222: joint99
+    100224: malha
+    100226: malha 1
+    100228: manivela_L
+    100230: manivela_R
+    100232: polySurface11
+    100234: polySurface12
+    100236: polySurface13
+    100238: polySurface14
+    100240: polySurface15
+    100242: polySurface16
+    100244: polySurface17
+    100246: polySurface18
+    100248: polySurface19
+    100250: polySurface20
+    100252: polySurface21
+    100254: polySurface22
+    100256: polySurface9
+    100258: skeleton
+    100260: transform1
+    100262: transform2
+    100264: transform3
+    100266: transform4
+    100268: transform5
+    100270: transform6
+    100272: vara
+    100274: vara 1
+    400000: batata
+    400002: //RootNode
+    400004: esqueleto
+    400006: ikHandle10
+    400008: ikHandle11
+    400010: ikHandle4
+    400012: ikHandle5
+    400014: ikHandle6
+    400016: ikHandle7
+    400018: ikHandle9
+    400020: joint10
+    400022: joint100
+    400024: joint100 1
+    400026: joint101
+    400028: joint101 1
+    400030: joint102
+    400032: joint102 1
+    400034: joint107
+    400036: joint108
+    400038: joint109
+    400040: joint110
+    400042: joint110 1
+    400044: joint111
+    400046: joint111 1
+    400048: joint115
+    400050: joint116
+    400052: joint117
+    400054: joint118
+    400056: joint119
+    400058: joint12
+    400060: joint120
+    400062: joint121
+    400064: joint122
+    400066: joint123
+    400068: joint124
+    400070: joint125
+    400072: joint126
+    400074: joint127
+    400076: joint128
+    400078: joint129
+    400080: joint13
+    400082: joint13 1
+    400084: joint130
+    400086: joint131
+    400088: joint132
+    400090: joint133
+    400092: joint134
+    400094: joint14
+    400096: joint14 1
+    400098: joint15
+    400100: joint19
+    400102: joint20
+    400104: joint21
+    400106: joint23
+    400108: joint24
+    400110: joint24 1
+    400112: joint25
+    400114: joint26
+    400116: joint26 1
+    400118: joint28
+    400120: joint30
+    400122: joint32
+    400124: joint32 1
+    400126: joint33
+    400128: joint33 1
+    400130: joint34
+    400132: joint34 1
+    400134: joint35
+    400136: joint35 1
+    400138: joint36
+    400140: joint36 1
+    400142: joint37
+    400144: joint37 1
+    400146: joint38
+    400148: joint38 1
+    400150: joint39
+    400152: joint39 1
+    400154: joint4
+    400156: joint40
+    400158: joint40 1
+    400160: joint41
+    400162: joint41 1
+    400164: joint42
+    400166: joint42 1
+    400168: joint43
+    400170: joint43 1
+    400172: joint44
+    400174: joint44 1
+    400176: joint45
+    400178: joint45 1
+    400180: joint46
+    400182: joint46 1
+    400184: joint47
+    400186: joint5
+    400188: joint6
+    400190: joint7
+    400192: joint76
+    400194: joint8
+    400196: joint85
+    400198: joint88
+    400200: joint89
+    400202: joint9
+    400204: joint90
+    400206: joint91
+    400208: joint92
+    400210: joint93
+    400212: joint94
+    400214: joint95
+    400216: joint96
+    400218: joint97
+    400220: joint98
+    400222: joint99
+    400224: malha
+    400226: malha 1
+    400228: manivela_L
+    400230: manivela_R
+    400232: polySurface11
+    400234: polySurface12
+    400236: polySurface13
+    400238: polySurface14
+    400240: polySurface15
+    400242: polySurface16
+    400244: polySurface17
+    400246: polySurface18
+    400248: polySurface19
+    400250: polySurface20
+    400252: polySurface21
+    400254: polySurface22
+    400256: polySurface9
+    400258: skeleton
+    400260: transform1
+    400262: transform2
+    400264: transform3
+    400266: transform4
+    400268: transform5
+    400270: transform6
+    400272: vara
+    400274: vara 1
+    4300000: polySurface11
+    4300002: polySurface12
+    4300004: polySurface13
+    4300006: polySurface14
+    4300008: polySurface15
+    4300010: polySurface16
+    4300012: polySurface17
+    4300014: polySurface18
+    4300016: polySurface19
+    4300018: polySurface20
+    4300020: polySurface21
+    4300022: polySurface9
+    4300024: polySurface22
+    4300026: manivela_R
+    4300028: manivela_L
+    4300030: vara
+    7400000: fishing
+    7400002: batat_FSH_idle
+    7400004: batat_FSH_arremesso
+    7400006: batat_FSH_roll
+    7400008: batat_FSH_pull
+    7400010: batat_FSH_victory
+    7400012: batat_FSH_fishForce
+    7400014: batat_FSH_lose
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: manivela_L
+    13700002: manivela_R
+    13700004: polySurface11
+    13700006: polySurface12
+    13700008: polySurface13
+    13700010: polySurface14
+    13700012: polySurface15
+    13700014: polySurface16
+    13700016: polySurface17
+    13700018: polySurface18
+    13700020: polySurface19
+    13700022: polySurface20
+    13700024: polySurface21
+    13700026: polySurface22
+    13700028: polySurface9
+    13700030: vara 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: batat_FSH_idle
+      takeName: fishing_v2
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: batata
+        weight: 1
+      - path: batata/esqueleto
+        weight: 1
+      - path: batata/esqueleto/ikHandle4
+        weight: 1
+      - path: batata/esqueleto/ikHandle5
+        weight: 1
+      - path: batata/esqueleto/ikHandle6
+        weight: 1
+      - path: batata/esqueleto/ikHandle7
+        weight: 1
+      - path: batata/esqueleto/ikHandle9
+        weight: 1
+      - path: batata/esqueleto/ikHandle10
+        weight: 1
+      - path: batata/esqueleto/ikHandle11
+        weight: 1
+      - path: batata/esqueleto/joint15
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint20
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118/joint96
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119/joint95
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23/joint24
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25/joint26
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116/joint97
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117/joint28
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85/joint26
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88/joint24
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120/joint92
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121/joint91
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122/joint90
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123/joint89
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124/joint93
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125/joint94
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33/joint34
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36/joint37
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39/joint40
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42/joint43
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45/joint46
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1/joint34 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1/joint37 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1/joint40 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1/joint43 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1/joint46 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1/joint14 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13/joint14
+        weight: 1
+      - path: batata/malha
+        weight: 1
+      - path: batata/malha/polySurface9
+        weight: 1
+      - path: batata/malha/polySurface11
+        weight: 1
+      - path: batata/malha/polySurface12
+        weight: 1
+      - path: batata/malha/polySurface13
+        weight: 1
+      - path: batata/malha/polySurface14
+        weight: 1
+      - path: batata/malha/polySurface15
+        weight: 1
+      - path: batata/malha/polySurface16
+        weight: 1
+      - path: batata/malha/polySurface17
+        weight: 1
+      - path: batata/malha/polySurface18
+        weight: 1
+      - path: batata/malha/polySurface19
+        weight: 1
+      - path: batata/malha/polySurface20
+        weight: 1
+      - path: batata/malha/polySurface21
+        weight: 1
+      - path: batata/malha/polySurface22
+        weight: 1
+      - path: vara
+        weight: 1
+      - path: vara/malha 1
+        weight: 1
+      - path: vara/malha 1/manivela_L
+        weight: 1
+      - path: vara/malha 1/manivela_R
+        weight: 1
+      - path: vara/malha 1/vara 1
+        weight: 1
+      - path: vara/skeleton
+        weight: 1
+      - path: vara/skeleton/joint126
+        weight: 1
+      - path: vara/skeleton/joint126/joint132
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130/joint131
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5/joint134
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6/joint133
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: batat_FSH_arremesso
+      takeName: fishing_v2
+      firstFrame: 60
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: batata
+        weight: 1
+      - path: batata/esqueleto
+        weight: 1
+      - path: batata/esqueleto/ikHandle4
+        weight: 1
+      - path: batata/esqueleto/ikHandle5
+        weight: 1
+      - path: batata/esqueleto/ikHandle6
+        weight: 1
+      - path: batata/esqueleto/ikHandle7
+        weight: 1
+      - path: batata/esqueleto/ikHandle9
+        weight: 1
+      - path: batata/esqueleto/ikHandle10
+        weight: 1
+      - path: batata/esqueleto/ikHandle11
+        weight: 1
+      - path: batata/esqueleto/joint15
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint20
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118/joint96
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119/joint95
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23/joint24
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25/joint26
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116/joint97
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117/joint28
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85/joint26
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88/joint24
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120/joint92
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121/joint91
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122/joint90
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123/joint89
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124/joint93
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125/joint94
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33/joint34
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36/joint37
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39/joint40
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42/joint43
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45/joint46
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1/joint34 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1/joint37 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1/joint40 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1/joint43 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1/joint46 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1/joint14 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13/joint14
+        weight: 1
+      - path: batata/malha
+        weight: 1
+      - path: batata/malha/polySurface9
+        weight: 1
+      - path: batata/malha/polySurface11
+        weight: 1
+      - path: batata/malha/polySurface12
+        weight: 1
+      - path: batata/malha/polySurface13
+        weight: 1
+      - path: batata/malha/polySurface14
+        weight: 1
+      - path: batata/malha/polySurface15
+        weight: 1
+      - path: batata/malha/polySurface16
+        weight: 1
+      - path: batata/malha/polySurface17
+        weight: 1
+      - path: batata/malha/polySurface18
+        weight: 1
+      - path: batata/malha/polySurface19
+        weight: 1
+      - path: batata/malha/polySurface20
+        weight: 1
+      - path: batata/malha/polySurface21
+        weight: 1
+      - path: batata/malha/polySurface22
+        weight: 1
+      - path: vara
+        weight: 1
+      - path: vara/malha 1
+        weight: 1
+      - path: vara/malha 1/manivela_L
+        weight: 1
+      - path: vara/malha 1/manivela_R
+        weight: 1
+      - path: vara/malha 1/vara 1
+        weight: 1
+      - path: vara/skeleton
+        weight: 1
+      - path: vara/skeleton/joint126
+        weight: 1
+      - path: vara/skeleton/joint126/joint132
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130/joint131
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5/joint134
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6/joint133
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: batat_FSH_roll
+      takeName: fishing_v2
+      firstFrame: 150
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: batata
+        weight: 1
+      - path: batata/esqueleto
+        weight: 1
+      - path: batata/esqueleto/ikHandle4
+        weight: 1
+      - path: batata/esqueleto/ikHandle5
+        weight: 1
+      - path: batata/esqueleto/ikHandle6
+        weight: 1
+      - path: batata/esqueleto/ikHandle7
+        weight: 1
+      - path: batata/esqueleto/ikHandle9
+        weight: 1
+      - path: batata/esqueleto/ikHandle10
+        weight: 1
+      - path: batata/esqueleto/ikHandle11
+        weight: 1
+      - path: batata/esqueleto/joint15
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint20
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118/joint96
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119/joint95
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23/joint24
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25/joint26
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116/joint97
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117/joint28
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85/joint26
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88/joint24
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120/joint92
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121/joint91
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122/joint90
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123/joint89
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124/joint93
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125/joint94
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33/joint34
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36/joint37
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39/joint40
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42/joint43
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45/joint46
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1/joint34 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1/joint37 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1/joint40 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1/joint43 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1/joint46 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1/joint14 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13/joint14
+        weight: 1
+      - path: batata/malha
+        weight: 1
+      - path: batata/malha/polySurface9
+        weight: 1
+      - path: batata/malha/polySurface11
+        weight: 1
+      - path: batata/malha/polySurface12
+        weight: 1
+      - path: batata/malha/polySurface13
+        weight: 1
+      - path: batata/malha/polySurface14
+        weight: 1
+      - path: batata/malha/polySurface15
+        weight: 1
+      - path: batata/malha/polySurface16
+        weight: 1
+      - path: batata/malha/polySurface17
+        weight: 1
+      - path: batata/malha/polySurface18
+        weight: 1
+      - path: batata/malha/polySurface19
+        weight: 1
+      - path: batata/malha/polySurface20
+        weight: 1
+      - path: batata/malha/polySurface21
+        weight: 1
+      - path: batata/malha/polySurface22
+        weight: 1
+      - path: vara
+        weight: 1
+      - path: vara/malha 1
+        weight: 1
+      - path: vara/malha 1/manivela_L
+        weight: 1
+      - path: vara/malha 1/manivela_R
+        weight: 1
+      - path: vara/malha 1/vara 1
+        weight: 1
+      - path: vara/skeleton
+        weight: 1
+      - path: vara/skeleton/joint126
+        weight: 1
+      - path: vara/skeleton/joint126/joint132
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130/joint131
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5/joint134
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6/joint133
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: batat_FSH_pull
+      takeName: fishing_v2
+      firstFrame: 190
+      lastFrame: 212
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: batata
+        weight: 1
+      - path: batata/esqueleto
+        weight: 1
+      - path: batata/esqueleto/ikHandle4
+        weight: 1
+      - path: batata/esqueleto/ikHandle5
+        weight: 1
+      - path: batata/esqueleto/ikHandle6
+        weight: 1
+      - path: batata/esqueleto/ikHandle7
+        weight: 1
+      - path: batata/esqueleto/ikHandle9
+        weight: 1
+      - path: batata/esqueleto/ikHandle10
+        weight: 1
+      - path: batata/esqueleto/ikHandle11
+        weight: 1
+      - path: batata/esqueleto/joint15
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint20
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118/joint96
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119/joint95
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23/joint24
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25/joint26
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116/joint97
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117/joint28
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85/joint26
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88/joint24
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120/joint92
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121/joint91
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122/joint90
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123/joint89
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124/joint93
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125/joint94
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33/joint34
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36/joint37
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39/joint40
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42/joint43
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45/joint46
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1/joint34 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1/joint37 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1/joint40 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1/joint43 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1/joint46 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1/joint14 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13/joint14
+        weight: 1
+      - path: batata/malha
+        weight: 1
+      - path: batata/malha/polySurface9
+        weight: 1
+      - path: batata/malha/polySurface11
+        weight: 1
+      - path: batata/malha/polySurface12
+        weight: 1
+      - path: batata/malha/polySurface13
+        weight: 1
+      - path: batata/malha/polySurface14
+        weight: 1
+      - path: batata/malha/polySurface15
+        weight: 1
+      - path: batata/malha/polySurface16
+        weight: 1
+      - path: batata/malha/polySurface17
+        weight: 1
+      - path: batata/malha/polySurface18
+        weight: 1
+      - path: batata/malha/polySurface19
+        weight: 1
+      - path: batata/malha/polySurface20
+        weight: 1
+      - path: batata/malha/polySurface21
+        weight: 1
+      - path: batata/malha/polySurface22
+        weight: 1
+      - path: vara
+        weight: 1
+      - path: vara/malha 1
+        weight: 1
+      - path: vara/malha 1/manivela_L
+        weight: 1
+      - path: vara/malha 1/manivela_R
+        weight: 1
+      - path: vara/malha 1/vara 1
+        weight: 1
+      - path: vara/skeleton
+        weight: 1
+      - path: vara/skeleton/joint126
+        weight: 1
+      - path: vara/skeleton/joint126/joint132
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130/joint131
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5/joint134
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6/joint133
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: batat_FSH_victory
+      takeName: fishing_v2
+      firstFrame: 240
+      lastFrame: 283
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: batata
+        weight: 1
+      - path: batata/esqueleto
+        weight: 1
+      - path: batata/esqueleto/ikHandle4
+        weight: 1
+      - path: batata/esqueleto/ikHandle5
+        weight: 1
+      - path: batata/esqueleto/ikHandle6
+        weight: 1
+      - path: batata/esqueleto/ikHandle7
+        weight: 1
+      - path: batata/esqueleto/ikHandle9
+        weight: 1
+      - path: batata/esqueleto/ikHandle10
+        weight: 1
+      - path: batata/esqueleto/ikHandle11
+        weight: 1
+      - path: batata/esqueleto/joint15
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint20
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118/joint96
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119/joint95
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23/joint24
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25/joint26
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116/joint97
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117/joint28
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85/joint26
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88/joint24
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120/joint92
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121/joint91
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122/joint90
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123/joint89
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124/joint93
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125/joint94
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33/joint34
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36/joint37
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39/joint40
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42/joint43
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45/joint46
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1/joint34 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1/joint37 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1/joint40 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1/joint43 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1/joint46 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1/joint14 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13/joint14
+        weight: 1
+      - path: batata/malha
+        weight: 1
+      - path: batata/malha/polySurface9
+        weight: 1
+      - path: batata/malha/polySurface11
+        weight: 1
+      - path: batata/malha/polySurface12
+        weight: 1
+      - path: batata/malha/polySurface13
+        weight: 1
+      - path: batata/malha/polySurface14
+        weight: 1
+      - path: batata/malha/polySurface15
+        weight: 1
+      - path: batata/malha/polySurface16
+        weight: 1
+      - path: batata/malha/polySurface17
+        weight: 1
+      - path: batata/malha/polySurface18
+        weight: 1
+      - path: batata/malha/polySurface19
+        weight: 1
+      - path: batata/malha/polySurface20
+        weight: 1
+      - path: batata/malha/polySurface21
+        weight: 1
+      - path: batata/malha/polySurface22
+        weight: 1
+      - path: vara
+        weight: 1
+      - path: vara/malha 1
+        weight: 1
+      - path: vara/malha 1/manivela_L
+        weight: 1
+      - path: vara/malha 1/manivela_R
+        weight: 1
+      - path: vara/malha 1/vara 1
+        weight: 1
+      - path: vara/skeleton
+        weight: 1
+      - path: vara/skeleton/joint126
+        weight: 1
+      - path: vara/skeleton/joint126/joint132
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130/joint131
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5/joint134
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6/joint133
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: batat_FSH_fishForce
+      takeName: fishing_v2
+      firstFrame: 315
+      lastFrame: 327
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: batata
+        weight: 1
+      - path: batata/esqueleto
+        weight: 1
+      - path: batata/esqueleto/ikHandle4
+        weight: 1
+      - path: batata/esqueleto/ikHandle5
+        weight: 1
+      - path: batata/esqueleto/ikHandle6
+        weight: 1
+      - path: batata/esqueleto/ikHandle7
+        weight: 1
+      - path: batata/esqueleto/ikHandle9
+        weight: 1
+      - path: batata/esqueleto/ikHandle10
+        weight: 1
+      - path: batata/esqueleto/ikHandle11
+        weight: 1
+      - path: batata/esqueleto/joint15
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint20
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118/joint96
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119/joint95
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23/joint24
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25/joint26
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116/joint97
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117/joint28
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85/joint26
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88/joint24
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120/joint92
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121/joint91
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122/joint90
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123/joint89
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124/joint93
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125/joint94
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33/joint34
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36/joint37
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39/joint40
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42/joint43
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45/joint46
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1/joint34 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1/joint37 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1/joint40 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1/joint43 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1/joint46 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1/joint14 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13/joint14
+        weight: 1
+      - path: batata/malha
+        weight: 1
+      - path: batata/malha/polySurface9
+        weight: 1
+      - path: batata/malha/polySurface11
+        weight: 1
+      - path: batata/malha/polySurface12
+        weight: 1
+      - path: batata/malha/polySurface13
+        weight: 1
+      - path: batata/malha/polySurface14
+        weight: 1
+      - path: batata/malha/polySurface15
+        weight: 1
+      - path: batata/malha/polySurface16
+        weight: 1
+      - path: batata/malha/polySurface17
+        weight: 1
+      - path: batata/malha/polySurface18
+        weight: 1
+      - path: batata/malha/polySurface19
+        weight: 1
+      - path: batata/malha/polySurface20
+        weight: 1
+      - path: batata/malha/polySurface21
+        weight: 1
+      - path: batata/malha/polySurface22
+        weight: 1
+      - path: vara
+        weight: 1
+      - path: vara/malha 1
+        weight: 1
+      - path: vara/malha 1/manivela_L
+        weight: 1
+      - path: vara/malha 1/manivela_R
+        weight: 1
+      - path: vara/malha 1/vara 1
+        weight: 1
+      - path: vara/skeleton
+        weight: 1
+      - path: vara/skeleton/joint126
+        weight: 1
+      - path: vara/skeleton/joint126/joint132
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130/joint131
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5/joint134
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6/joint133
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: batat_FSH_lose
+      takeName: fishing_v2
+      firstFrame: 330
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: batata
+        weight: 1
+      - path: batata/esqueleto
+        weight: 1
+      - path: batata/esqueleto/ikHandle4
+        weight: 1
+      - path: batata/esqueleto/ikHandle5
+        weight: 1
+      - path: batata/esqueleto/ikHandle6
+        weight: 1
+      - path: batata/esqueleto/ikHandle7
+        weight: 1
+      - path: batata/esqueleto/ikHandle9
+        weight: 1
+      - path: batata/esqueleto/ikHandle10
+        weight: 1
+      - path: batata/esqueleto/ikHandle11
+        weight: 1
+      - path: batata/esqueleto/joint15
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint20
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint118/joint96
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint21/joint119/joint95
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint23/joint24
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint25/joint26
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint116/joint97
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint30/joint117/joint28
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint85/joint26
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint88/joint24
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint120/joint92
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint121/joint91
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint122/joint90
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint123/joint89
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint124/joint93
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint8/joint9/joint125/joint94
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint32/joint33/joint34
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint35/joint36/joint37
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint38/joint39/joint40
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint41/joint42/joint43
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint19/joint109/joint110/joint111/joint47/joint44/joint45/joint46
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint32 1/joint33 1/joint34 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint35 1/joint36 1/joint37 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint38 1/joint39 1/joint40 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint41 1/joint42 1/joint43 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint4/joint5/joint6/joint7/joint76/joint115/joint110
+          1/joint111 1/joint108/joint44 1/joint45 1/joint46 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint99/joint100 1/joint101 1/joint102
+          1/joint12/joint13 1/joint14 1
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13
+        weight: 1
+      - path: batata/esqueleto/joint15/joint10/joint107/joint100/joint101/joint102/joint98/joint13/joint14
+        weight: 1
+      - path: batata/malha
+        weight: 1
+      - path: batata/malha/polySurface9
+        weight: 1
+      - path: batata/malha/polySurface11
+        weight: 1
+      - path: batata/malha/polySurface12
+        weight: 1
+      - path: batata/malha/polySurface13
+        weight: 1
+      - path: batata/malha/polySurface14
+        weight: 1
+      - path: batata/malha/polySurface15
+        weight: 1
+      - path: batata/malha/polySurface16
+        weight: 1
+      - path: batata/malha/polySurface17
+        weight: 1
+      - path: batata/malha/polySurface18
+        weight: 1
+      - path: batata/malha/polySurface19
+        weight: 1
+      - path: batata/malha/polySurface20
+        weight: 1
+      - path: batata/malha/polySurface21
+        weight: 1
+      - path: batata/malha/polySurface22
+        weight: 1
+      - path: vara
+        weight: 1
+      - path: vara/malha 1
+        weight: 1
+      - path: vara/malha 1/manivela_L
+        weight: 1
+      - path: vara/malha 1/manivela_R
+        weight: 1
+      - path: vara/malha 1/vara 1
+        weight: 1
+      - path: vara/skeleton
+        weight: 1
+      - path: vara/skeleton/joint126
+        weight: 1
+      - path: vara/skeleton/joint126/joint132
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/joint127/joint128/joint129/joint130/joint131
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform5/joint134
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6
+        weight: 1
+      - path: vara/skeleton/joint126/joint132/transform6/joint133
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

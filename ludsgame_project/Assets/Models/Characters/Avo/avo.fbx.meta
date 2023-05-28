@@ -1,0 +1,770 @@
+fileFormatVersion: 2
+guid: 1e9d0d9307786da4683ef69abb547bdf
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: avo_mesh_low
+  - first:
+      1: 100004
+    second: bigode_low
+  - first:
+      1: 100006
+    second: cabelo_low
+  - first:
+      1: 100008
+    second: corpo
+  - first:
+      1: 100010
+    second: ikHandle1
+  - first:
+      1: 100012
+    second: ikHandle2
+  - first:
+      1: 100014
+    second: ikHandle3
+  - first:
+      1: 100016
+    second: ikHandle4
+  - first:
+      1: 100018
+    second: ikHandle5
+  - first:
+      1: 100020
+    second: joint1
+  - first:
+      1: 100022
+    second: joint10
+  - first:
+      1: 100024
+    second: joint10 1
+  - first:
+      1: 100026
+    second: joint11
+  - first:
+      1: 100028
+    second: joint11 1
+  - first:
+      1: 100030
+    second: joint12
+  - first:
+      1: 100032
+    second: joint12 1
+  - first:
+      1: 100034
+    second: joint13
+  - first:
+      1: 100036
+    second: joint13 1
+  - first:
+      1: 100038
+    second: joint14
+  - first:
+      1: 100040
+    second: joint14 1
+  - first:
+      1: 100042
+    second: joint15
+  - first:
+      1: 100044
+    second: joint16
+  - first:
+      1: 100046
+    second: joint17
+  - first:
+      1: 100048
+    second: joint18
+  - first:
+      1: 100050
+    second: joint19
+  - first:
+      1: 100052
+    second: joint19 1
+  - first:
+      1: 100054
+    second: joint2
+  - first:
+      1: 100056
+    second: joint2 1
+  - first:
+      1: 100058
+    second: joint20
+  - first:
+      1: 100060
+    second: joint20 1
+  - first:
+      1: 100062
+    second: joint20 2
+  - first:
+      1: 100064
+    second: joint20 3
+  - first:
+      1: 100066
+    second: joint20 4
+  - first:
+      1: 100068
+    second: joint20 5
+  - first:
+      1: 100070
+    second: joint20 6
+  - first:
+      1: 100072
+    second: joint20 7
+  - first:
+      1: 100074
+    second: joint20 8
+  - first:
+      1: 100076
+    second: joint20 9
+  - first:
+      1: 100078
+    second: joint21
+  - first:
+      1: 100080
+    second: joint21 1
+  - first:
+      1: 100082
+    second: joint21 2
+  - first:
+      1: 100084
+    second: joint21 3
+  - first:
+      1: 100086
+    second: joint21 4
+  - first:
+      1: 100088
+    second: joint21 5
+  - first:
+      1: 100090
+    second: joint21 6
+  - first:
+      1: 100092
+    second: joint21 7
+  - first:
+      1: 100094
+    second: joint21 8
+  - first:
+      1: 100096
+    second: joint21 9
+  - first:
+      1: 100098
+    second: joint22
+  - first:
+      1: 100100
+    second: joint22 1
+  - first:
+      1: 100102
+    second: joint23
+  - first:
+      1: 100104
+    second: joint23 1
+  - first:
+      1: 100106
+    second: joint24
+  - first:
+      1: 100108
+    second: joint24 1
+  - first:
+      1: 100110
+    second: joint25
+  - first:
+      1: 100112
+    second: joint25 1
+  - first:
+      1: 100114
+    second: joint26
+  - first:
+      1: 100116
+    second: joint26 1
+  - first:
+      1: 100118
+    second: joint27
+  - first:
+      1: 100120
+    second: joint28
+  - first:
+      1: 100122
+    second: joint29
+  - first:
+      1: 100124
+    second: joint29 1
+  - first:
+      1: 100126
+    second: joint29 2
+  - first:
+      1: 100128
+    second: joint29 3
+  - first:
+      1: 100130
+    second: joint3
+  - first:
+      1: 100132
+    second: joint3 1
+  - first:
+      1: 100134
+    second: joint30
+  - first:
+      1: 100136
+    second: joint31
+  - first:
+      1: 100138
+    second: joint31 1
+  - first:
+      1: 100140
+    second: joint32
+  - first:
+      1: 100142
+    second: joint4
+  - first:
+      1: 100144
+    second: joint5
+  - first:
+      1: 100146
+    second: joint53
+  - first:
+      1: 100148
+    second: joint56
+  - first:
+      1: 100150
+    second: joint59
+  - first:
+      1: 100152
+    second: joint6
+  - first:
+      1: 100154
+    second: joint62
+  - first:
+      1: 100156
+    second: joint69
+  - first:
+      1: 100158
+    second: joint7
+  - first:
+      1: 100160
+    second: joint8
+  - first:
+      1: 100162
+    second: joint9
+  - first:
+      1: 100164
+    second: joint9 1
+  - first:
+      1: 100166
+    second: nariz_low
+  - first:
+      1: 100168
+    second: olho_R_low
+  - first:
+      1: 100170
+    second: olho_R_low1
+  - first:
+      1: 100172
+    second: orelha_R
+  - first:
+      1: 100174
+    second: orelha_R1
+  - first:
+      1: 100176
+    second: pulseira
+  - first:
+      1: 100178
+    second: relogio_low
+  - first:
+      1: 100180
+    second: skeleton
+  - first:
+      1: 100182
+    second: sobrancelha_R_low
+  - first:
+      1: 100184
+    second: sobrancelha_R_low1
+  - first:
+      1: 100186
+    second: avo
+  - first:
+      1: 100188
+    second: chave
+  - first:
+      1: 100190
+    second: locator1
+  - first:
+      1: 100192
+    second: pCube1
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: avo_mesh_low
+  - first:
+      4: 400004
+    second: bigode_low
+  - first:
+      4: 400006
+    second: cabelo_low
+  - first:
+      4: 400008
+    second: corpo
+  - first:
+      4: 400010
+    second: ikHandle1
+  - first:
+      4: 400012
+    second: ikHandle2
+  - first:
+      4: 400014
+    second: ikHandle3
+  - first:
+      4: 400016
+    second: ikHandle4
+  - first:
+      4: 400018
+    second: ikHandle5
+  - first:
+      4: 400020
+    second: joint1
+  - first:
+      4: 400022
+    second: joint10
+  - first:
+      4: 400024
+    second: joint10 1
+  - first:
+      4: 400026
+    second: joint11
+  - first:
+      4: 400028
+    second: joint11 1
+  - first:
+      4: 400030
+    second: joint12
+  - first:
+      4: 400032
+    second: joint12 1
+  - first:
+      4: 400034
+    second: joint13
+  - first:
+      4: 400036
+    second: joint13 1
+  - first:
+      4: 400038
+    second: joint14
+  - first:
+      4: 400040
+    second: joint14 1
+  - first:
+      4: 400042
+    second: joint15
+  - first:
+      4: 400044
+    second: joint16
+  - first:
+      4: 400046
+    second: joint17
+  - first:
+      4: 400048
+    second: joint18
+  - first:
+      4: 400050
+    second: joint19
+  - first:
+      4: 400052
+    second: joint19 1
+  - first:
+      4: 400054
+    second: joint2
+  - first:
+      4: 400056
+    second: joint2 1
+  - first:
+      4: 400058
+    second: joint20
+  - first:
+      4: 400060
+    second: joint20 1
+  - first:
+      4: 400062
+    second: joint20 2
+  - first:
+      4: 400064
+    second: joint20 3
+  - first:
+      4: 400066
+    second: joint20 4
+  - first:
+      4: 400068
+    second: joint20 5
+  - first:
+      4: 400070
+    second: joint20 6
+  - first:
+      4: 400072
+    second: joint20 7
+  - first:
+      4: 400074
+    second: joint20 8
+  - first:
+      4: 400076
+    second: joint20 9
+  - first:
+      4: 400078
+    second: joint21
+  - first:
+      4: 400080
+    second: joint21 1
+  - first:
+      4: 400082
+    second: joint21 2
+  - first:
+      4: 400084
+    second: joint21 3
+  - first:
+      4: 400086
+    second: joint21 4
+  - first:
+      4: 400088
+    second: joint21 5
+  - first:
+      4: 400090
+    second: joint21 6
+  - first:
+      4: 400092
+    second: joint21 7
+  - first:
+      4: 400094
+    second: joint21 8
+  - first:
+      4: 400096
+    second: joint21 9
+  - first:
+      4: 400098
+    second: joint22
+  - first:
+      4: 400100
+    second: joint22 1
+  - first:
+      4: 400102
+    second: joint23
+  - first:
+      4: 400104
+    second: joint23 1
+  - first:
+      4: 400106
+    second: joint24
+  - first:
+      4: 400108
+    second: joint24 1
+  - first:
+      4: 400110
+    second: joint25
+  - first:
+      4: 400112
+    second: joint25 1
+  - first:
+      4: 400114
+    second: joint26
+  - first:
+      4: 400116
+    second: joint26 1
+  - first:
+      4: 400118
+    second: joint27
+  - first:
+      4: 400120
+    second: joint28
+  - first:
+      4: 400122
+    second: joint29
+  - first:
+      4: 400124
+    second: joint29 1
+  - first:
+      4: 400126
+    second: joint29 2
+  - first:
+      4: 400128
+    second: joint29 3
+  - first:
+      4: 400130
+    second: joint3
+  - first:
+      4: 400132
+    second: joint3 1
+  - first:
+      4: 400134
+    second: joint30
+  - first:
+      4: 400136
+    second: joint31
+  - first:
+      4: 400138
+    second: joint31 1
+  - first:
+      4: 400140
+    second: joint32
+  - first:
+      4: 400142
+    second: joint4
+  - first:
+      4: 400144
+    second: joint5
+  - first:
+      4: 400146
+    second: joint53
+  - first:
+      4: 400148
+    second: joint56
+  - first:
+      4: 400150
+    second: joint59
+  - first:
+      4: 400152
+    second: joint6
+  - first:
+      4: 400154
+    second: joint62
+  - first:
+      4: 400156
+    second: joint69
+  - first:
+      4: 400158
+    second: joint7
+  - first:
+      4: 400160
+    second: joint8
+  - first:
+      4: 400162
+    second: joint9
+  - first:
+      4: 400164
+    second: joint9 1
+  - first:
+      4: 400166
+    second: nariz_low
+  - first:
+      4: 400168
+    second: olho_R_low
+  - first:
+      4: 400170
+    second: olho_R_low1
+  - first:
+      4: 400172
+    second: orelha_R
+  - first:
+      4: 400174
+    second: orelha_R1
+  - first:
+      4: 400176
+    second: pulseira
+  - first:
+      4: 400178
+    second: relogio_low
+  - first:
+      4: 400180
+    second: skeleton
+  - first:
+      4: 400182
+    second: sobrancelha_R_low
+  - first:
+      4: 400184
+    second: sobrancelha_R_low1
+  - first:
+      4: 400186
+    second: avo
+  - first:
+      4: 400188
+    second: chave
+  - first:
+      4: 400190
+    second: locator1
+  - first:
+      4: 400192
+    second: pCube1
+  - first:
+      23: 2300000
+    second: pCube1
+  - first:
+      33: 3300000
+    second: pCube1
+  - first:
+      43: 4300000
+    second: relogio_low
+  - first:
+      43: 4300002
+    second: bigode_low
+  - first:
+      43: 4300004
+    second: nariz_low
+  - first:
+      43: 4300006
+    second: cabelo_low
+  - first:
+      43: 4300008
+    second: orelha_R1
+  - first:
+      43: 4300010
+    second: olho_R_low1
+  - first:
+      43: 4300012
+    second: sobrancelha_R_low1
+  - first:
+      43: 4300014
+    second: sobrancelha_R_low
+  - first:
+      43: 4300016
+    second: olho_R_low
+  - first:
+      43: 4300018
+    second: orelha_R
+  - first:
+      43: 4300020
+    second: pulseira
+  - first:
+      43: 4300022
+    second: corpo
+  - first:
+      43: 4300024
+    second: pCube1
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: bigode_low
+  - first:
+      137: 13700002
+    second: cabelo_low
+  - first:
+      137: 13700004
+    second: corpo
+  - first:
+      137: 13700006
+    second: nariz_low
+  - first:
+      137: 13700008
+    second: olho_R_low
+  - first:
+      137: 13700010
+    second: olho_R_low1
+  - first:
+      137: 13700012
+    second: orelha_R
+  - first:
+      137: 13700014
+    second: orelha_R1
+  - first:
+      137: 13700016
+    second: pulseira
+  - first:
+      137: 13700018
+    second: relogio_low
+  - first:
+      137: 13700020
+    second: sobrancelha_R_low
+  - first:
+      137: 13700022
+    second: sobrancelha_R_low1
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 5cb3690bf26be16408845c5f3944c804
+  - 6459599b837b08e4caf1bf5f0d631611
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ComandsCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Comands>
+		<Comand name="PigDefault">
+			<Name> PigRunnerDefault</Name>
+			<Comand1>Ande para a direita e para a esquerda para pegar as maçãs na estrada.</Comand1>
+			<Comand2>Agache para passar por baixo das placas.</Comand2>
+			<Comand3>Levante o joelho para pular os obstáculos.</Comand3>
+		</Comand>
+		<Comand name="PigVariation">
+			<Comand1>Levante o braço direito para ir para a direita.</Comand1>
+			<Comand2>Levante o braço esquerdo para ir para a esquerda.</Comand2>
+			<Comand3>Levante os dois braços para frente para pular os obstáculos.</Comand3>
+		</Comand>
+		<Comand name="GkDefault">
+			<Comand1>Ande para a esquerda e para a direita para se posicionar no gol.</Comand1>
+		</Comand>
+			<Comand name="GkVariation">
+			<Comand1>Ande para a esquerda e para a direita para se posicionar no gol.</Comand1>
+		</Comand>
+		<Comand name="BridgeDefault">
+			<Comand1>Tente se equilibrar na ponte. Muito cuidado com qualquer movimento para esquerda ou para direita!</Comand1>
+			<Comand2>Incline o tronco para frente para andar mais rápido.</Comand2>
+		</Comand>
+		<Comand name="ThrowDefault">
+			<Comand1>Ande para a direita e para a esquerda para mirar.</Comand1>
+			<Comand2>Arremesse a maçã para acertar o alvo.</Comand2>
+		</Comand>
+		<Comand name="SupDefault">
+			<Comand1>Reme para a esquerda para virar para a direita.</Comand1>
+			<Comand2>Reme para a direita para virar para a esquerda.</Comand2>
+			<Comand3>Reme para a esquerda e para a direita, aleternadamente, para seguir emm frente.</Comand3>
+		</Comand>
+		<Comand name="SupVariation">
+			<Comand1>Levante o braço esquerdo para remar para direita.</Comand1>
+			<Comand2>Levante o braço direito para remar para esquerda.</Comand2>
+			<Comand3>Reme para a esquerda e para a direita, alternadamente, para seguir em frente.</Comand3>
+		</Comand>
+		<Comand name="FishingDefault">
+			<Comand1>Arremesse o anzol no lago para começar a pescaria.</Comand1>
+			<Comand2>Com os punhos fechados, faça movimentos circulares para frente para puxar o peixe.</Comand2>
+		</Comand>
+		
+		
+	</Comands>
+</ComandsCollection>
+

@@ -1,0 +1,1960 @@
+fileFormatVersion: 2
+guid: 2a6acc3bd4c4e414ba88815649abae5c
+timeCreated: 1435757078
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: all_controls
+    100002: all_joints
+    100004: back_control
+    100006: barriga_control
+    100008: boca_control
+    100010: body
+    100012: boy
+    100014: //RootNode
+    100016: cabeca_control
+    100018: cabeca_joint
+    100020: cintura_balanco_control
+    100022: cintura_control
+    100024: ClaviculaGrupo
+    100026: dentes
+    100028: espinha_01
+    100030: espinha_02
+    100032: espinha_03
+    100034: eyes
+    100036: global_control
+    100038: grp_all
+    100040: hair
+    100042: hi_l_eyelid
+    100044: hi_r_eyelid
+    100046: L_braco_joint
+    100048: l_brow
+    100050: L_brow_control
+    100052: L_brow_joint01
+    100054: L_brow_joint02
+    100056: L_calcanhar_joint
+    100058: L_clavicula_control
+    100060: L_clavicula_joint
+    100062: L_cotovelo_joint
+    100064: l_eye
+    100066: L_hi_eyelid_control
+    100068: L_hi_eyelid_joint01
+    100070: L_hi_eyelid_joint02
+    100072: L_ik_cotovelo_control
+    100074: L_ind_joint01
+    100076: L_ind_joint02
+    100078: L_ind_joint03
+    100080: L_ind_joint04
+    100082: L_joelho_control
+    100084: L_joelho_joint
+    100086: L_leg_control
+    100088: L_low_eyelid_control
+    100090: L_low_eyelid_joint01
+    100092: L_low_eyelid_joint02
+    100094: L_mao_control
+    100096: L_mao_joint
+    100098: L_mid_joint01
+    100100: L_mid_joint02
+    100102: L_mid_joint03
+    100104: L_mid_joint04
+    100106: L_mindi_joint01
+    100108: L_mindi_joint02
+    100110: L_mindi_joint03
+    100112: L_mindi_joint04
+    100114: L_ombro_control
+    100116: L_pe_joint
+    100118: L_pol_joint01
+    100120: L_pol_joint02
+    100122: L_pol_joint03
+    100124: L_pol_joint04
+    100126: L_pontape_joint
+    100128: L_punho_control
+    100130: L_punho_joint
+    100132: L_virilha_joint
+    100134: lingua
+    100136: low_l_eyelid1
+    100138: low_r_eyelid
+    100140: mouth_joint01
+    100142: mouth_joint02
+    100144: nurbsCircle1
+    100146: nurbsCircle2
+    100148: peito_control
+    100150: pescoco_joint
+    100152: pontacabeca_joint
+    100154: R_braco_joint
+    100156: r_brow
+    100158: R_brow_control
+    100160: R_brow_joint01
+    100162: R_brow_joint02
+    100164: R_calcanhar_joint
+    100166: R_clavicula_control
+    100168: R_clavicula_joint
+    100170: R_cotovelo_joint
+    100172: r_eye
+    100174: R_hi_eyelid_control
+    100176: R_hi_eyelid_joint01
+    100178: R_hi_eyelid_joint02
+    100180: R_ik_cotovelo_control
+    100182: R_ind_joint01
+    100184: R_ind_joint02
+    100186: R_ind_joint03
+    100188: R_ind_joint04
+    100190: R_joelho_control
+    100192: R_joelho_joint
+    100194: R_leg_control
+    100196: R_low_eyelid_control
+    100198: R_low_eyelid_joint01
+    100200: R_low_eyelid_joint02
+    100202: R_mao_control
+    100204: R_mao_joint
+    100206: R_mid_joint01
+    100208: R_mid_joint02
+    100210: R_mid_joint03
+    100212: R_mid_joint04
+    100214: R_mindi_joint01
+    100216: R_mindi_joint02
+    100218: R_mindi_joint03
+    100220: R_mindi_joint04
+    100222: R_ombro_control
+    100224: R_pe_joint
+    100226: R_pol_joint01
+    100228: R_pol_joint02
+    100230: R_pol_joint03
+    100232: R_pol_joint04
+    100234: R_pontape_joint
+    100236: R_punho_control
+    100238: R_punho_joint
+    100240: R_virilha_joint
+    100242: root_joint
+    400000: all_controls
+    400002: all_joints
+    400004: back_control
+    400006: barriga_control
+    400008: boca_control
+    400010: body
+    400012: boy
+    400014: //RootNode
+    400016: cabeca_control
+    400018: cabeca_joint
+    400020: cintura_balanco_control
+    400022: cintura_control
+    400024: ClaviculaGrupo
+    400026: dentes
+    400028: espinha_01
+    400030: espinha_02
+    400032: espinha_03
+    400034: eyes
+    400036: global_control
+    400038: grp_all
+    400040: hair
+    400042: hi_l_eyelid
+    400044: hi_r_eyelid
+    400046: L_braco_joint
+    400048: l_brow
+    400050: L_brow_control
+    400052: L_brow_joint01
+    400054: L_brow_joint02
+    400056: L_calcanhar_joint
+    400058: L_clavicula_control
+    400060: L_clavicula_joint
+    400062: L_cotovelo_joint
+    400064: l_eye
+    400066: L_hi_eyelid_control
+    400068: L_hi_eyelid_joint01
+    400070: L_hi_eyelid_joint02
+    400072: L_ik_cotovelo_control
+    400074: L_ind_joint01
+    400076: L_ind_joint02
+    400078: L_ind_joint03
+    400080: L_ind_joint04
+    400082: L_joelho_control
+    400084: L_joelho_joint
+    400086: L_leg_control
+    400088: L_low_eyelid_control
+    400090: L_low_eyelid_joint01
+    400092: L_low_eyelid_joint02
+    400094: L_mao_control
+    400096: L_mao_joint
+    400098: L_mid_joint01
+    400100: L_mid_joint02
+    400102: L_mid_joint03
+    400104: L_mid_joint04
+    400106: L_mindi_joint01
+    400108: L_mindi_joint02
+    400110: L_mindi_joint03
+    400112: L_mindi_joint04
+    400114: L_ombro_control
+    400116: L_pe_joint
+    400118: L_pol_joint01
+    400120: L_pol_joint02
+    400122: L_pol_joint03
+    400124: L_pol_joint04
+    400126: L_pontape_joint
+    400128: L_punho_control
+    400130: L_punho_joint
+    400132: L_virilha_joint
+    400134: lingua
+    400136: low_l_eyelid1
+    400138: low_r_eyelid
+    400140: mouth_joint01
+    400142: mouth_joint02
+    400144: nurbsCircle1
+    400146: nurbsCircle2
+    400148: peito_control
+    400150: pescoco_joint
+    400152: pontacabeca_joint
+    400154: R_braco_joint
+    400156: r_brow
+    400158: R_brow_control
+    400160: R_brow_joint01
+    400162: R_brow_joint02
+    400164: R_calcanhar_joint
+    400166: R_clavicula_control
+    400168: R_clavicula_joint
+    400170: R_cotovelo_joint
+    400172: r_eye
+    400174: R_hi_eyelid_control
+    400176: R_hi_eyelid_joint01
+    400178: R_hi_eyelid_joint02
+    400180: R_ik_cotovelo_control
+    400182: R_ind_joint01
+    400184: R_ind_joint02
+    400186: R_ind_joint03
+    400188: R_ind_joint04
+    400190: R_joelho_control
+    400192: R_joelho_joint
+    400194: R_leg_control
+    400196: R_low_eyelid_control
+    400198: R_low_eyelid_joint01
+    400200: R_low_eyelid_joint02
+    400202: R_mao_control
+    400204: R_mao_joint
+    400206: R_mid_joint01
+    400208: R_mid_joint02
+    400210: R_mid_joint03
+    400212: R_mid_joint04
+    400214: R_mindi_joint01
+    400216: R_mindi_joint02
+    400218: R_mindi_joint03
+    400220: R_mindi_joint04
+    400222: R_ombro_control
+    400224: R_pe_joint
+    400226: R_pol_joint01
+    400228: R_pol_joint02
+    400230: R_pol_joint03
+    400232: R_pol_joint04
+    400234: R_pontape_joint
+    400236: R_punho_control
+    400238: R_punho_joint
+    400240: R_virilha_joint
+    400242: root_joint
+    4300000: l_brow
+    4300002: r_brow
+    4300004: hi_r_eyelid
+    4300006: low_r_eyelid
+    4300008: hi_l_eyelid
+    4300010: low_l_eyelid1
+    4300012: r_eye
+    4300014: l_eye
+    4300016: dentes
+    4300018: hair
+    4300020: body
+    4300022: lingua
+    7400000: boy_clbr_iddle
+    7400002: boy_clbr_bye
+    7400004: boy_clbr_walk
+    7400006: boy_clbr_levitate_IN
+    7400008: boy_clbr_levitate_IDDLE
+    7400010: boy_clbr_levitate_OUT
+    9500000: //RootNode
+    13700000: body
+    13700002: dentes
+    13700004: hair
+    13700006: hi_l_eyelid
+    13700008: hi_r_eyelid
+    13700010: l_brow
+    13700012: l_eye
+    13700014: lingua
+    13700016: low_l_eyelid1
+    13700018: low_r_eyelid
+    13700020: r_brow
+    13700022: r_eye
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: boy_clbr_iddle
+      takeName: boy_clbr_animated
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy
+        weight: 1
+      - path: boy/body
+        weight: 1
+      - path: boy/dentes
+        weight: 1
+      - path: boy/eyes
+        weight: 1
+      - path: boy/eyes/hi_l_eyelid
+        weight: 1
+      - path: boy/eyes/hi_r_eyelid
+        weight: 1
+      - path: boy/eyes/l_brow
+        weight: 1
+      - path: boy/eyes/l_eye
+        weight: 1
+      - path: boy/eyes/low_l_eyelid1
+        weight: 1
+      - path: boy/eyes/low_r_eyelid
+        weight: 1
+      - path: boy/eyes/r_brow
+        weight: 1
+      - path: boy/eyes/r_eye
+        weight: 1
+      - path: boy/hair
+        weight: 1
+      - path: boy/lingua
+        weight: 1
+      - path: global_control
+        weight: 1
+      - path: grp_all
+        weight: 1
+      - path: grp_all/all_controls
+        weight: 1
+      - path: grp_all/all_controls/back_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/barriga_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/cintura_balanco_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/cintura_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo/L_clavicula_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo/R_clavicula_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/L_ombro_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/L_ombro_control/L_ik_cotovelo_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/R_ombro_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/R_ombro_control/R_ik_cotovelo_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/boca_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_brow_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_hi_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_low_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_brow_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_hi_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_low_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/L_joelho_control
+        weight: 1
+      - path: grp_all/all_controls/L_leg_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control/L_punho_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control/nurbsCircle1
+        weight: 1
+      - path: grp_all/all_controls/R_joelho_control
+        weight: 1
+      - path: grp_all/all_controls/R_leg_control
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control/nurbsCircle2
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control/R_punho_control
+        weight: 1
+      - path: grp_all/all_joints
+        weight: 1
+      - path: grp_all/all_joints/root_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02/L_ind_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02/L_ind_joint03/L_ind_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02/L_mid_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02/L_mid_joint03/L_mid_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02/L_mindi_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02/L_mindi_joint03/L_mindi_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02/L_pol_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02/L_pol_joint03/L_pol_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_brow_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_brow_joint01/L_brow_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_hi_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_hi_eyelid_joint01/L_hi_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_low_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_low_eyelid_joint01/L_low_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/mouth_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/mouth_joint01/mouth_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/pontacabeca_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_brow_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_brow_joint01/R_brow_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_hi_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_hi_eyelid_joint01/R_hi_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_low_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_low_eyelid_joint01/R_low_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02/R_ind_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02/R_ind_joint03/R_ind_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02/R_mid_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02/R_mid_joint03/R_mid_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02/R_mindi_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02/R_mindi_joint03/R_mindi_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02/R_pol_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02/R_pol_joint03/R_pol_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint/L_pe_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint/L_pe_joint/L_pontape_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint/R_pe_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint/R_pe_joint/R_pontape_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: boy_clbr_bye
+      takeName: boy_clbr_animated
+      firstFrame: 101
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy
+        weight: 1
+      - path: boy/body
+        weight: 1
+      - path: boy/dentes
+        weight: 1
+      - path: boy/eyes
+        weight: 1
+      - path: boy/eyes/hi_l_eyelid
+        weight: 1
+      - path: boy/eyes/hi_r_eyelid
+        weight: 1
+      - path: boy/eyes/l_brow
+        weight: 1
+      - path: boy/eyes/l_eye
+        weight: 1
+      - path: boy/eyes/low_l_eyelid1
+        weight: 1
+      - path: boy/eyes/low_r_eyelid
+        weight: 1
+      - path: boy/eyes/r_brow
+        weight: 1
+      - path: boy/eyes/r_eye
+        weight: 1
+      - path: boy/hair
+        weight: 1
+      - path: boy/lingua
+        weight: 1
+      - path: global_control
+        weight: 1
+      - path: grp_all
+        weight: 1
+      - path: grp_all/all_controls
+        weight: 1
+      - path: grp_all/all_controls/back_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/barriga_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/cintura_balanco_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/cintura_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo/L_clavicula_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo/R_clavicula_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/L_ombro_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/L_ombro_control/L_ik_cotovelo_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/R_ombro_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/R_ombro_control/R_ik_cotovelo_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/boca_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_brow_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_hi_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_low_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_brow_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_hi_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_low_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/L_joelho_control
+        weight: 1
+      - path: grp_all/all_controls/L_leg_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control/L_punho_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control/nurbsCircle1
+        weight: 1
+      - path: grp_all/all_controls/R_joelho_control
+        weight: 1
+      - path: grp_all/all_controls/R_leg_control
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control/nurbsCircle2
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control/R_punho_control
+        weight: 1
+      - path: grp_all/all_joints
+        weight: 1
+      - path: grp_all/all_joints/root_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02/L_ind_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02/L_ind_joint03/L_ind_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02/L_mid_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02/L_mid_joint03/L_mid_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02/L_mindi_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02/L_mindi_joint03/L_mindi_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02/L_pol_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02/L_pol_joint03/L_pol_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_brow_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_brow_joint01/L_brow_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_hi_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_hi_eyelid_joint01/L_hi_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_low_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_low_eyelid_joint01/L_low_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/mouth_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/mouth_joint01/mouth_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/pontacabeca_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_brow_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_brow_joint01/R_brow_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_hi_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_hi_eyelid_joint01/R_hi_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_low_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_low_eyelid_joint01/R_low_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02/R_ind_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02/R_ind_joint03/R_ind_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02/R_mid_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02/R_mid_joint03/R_mid_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02/R_mindi_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02/R_mindi_joint03/R_mindi_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02/R_pol_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02/R_pol_joint03/R_pol_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint/L_pe_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint/L_pe_joint/L_pontape_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint/R_pe_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint/R_pe_joint/R_pontape_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: boy_clbr_walk
+      takeName: boy_clbr_animated
+      firstFrame: 201
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy
+        weight: 1
+      - path: boy/body
+        weight: 1
+      - path: boy/dentes
+        weight: 1
+      - path: boy/eyes
+        weight: 1
+      - path: boy/eyes/hi_l_eyelid
+        weight: 1
+      - path: boy/eyes/hi_r_eyelid
+        weight: 1
+      - path: boy/eyes/l_brow
+        weight: 1
+      - path: boy/eyes/l_eye
+        weight: 1
+      - path: boy/eyes/low_l_eyelid1
+        weight: 1
+      - path: boy/eyes/low_r_eyelid
+        weight: 1
+      - path: boy/eyes/r_brow
+        weight: 1
+      - path: boy/eyes/r_eye
+        weight: 1
+      - path: boy/hair
+        weight: 1
+      - path: boy/lingua
+        weight: 1
+      - path: global_control
+        weight: 1
+      - path: grp_all
+        weight: 1
+      - path: grp_all/all_controls
+        weight: 1
+      - path: grp_all/all_controls/back_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/barriga_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/cintura_balanco_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/cintura_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo/L_clavicula_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo/R_clavicula_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/L_ombro_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/L_ombro_control/L_ik_cotovelo_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/R_ombro_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/R_ombro_control/R_ik_cotovelo_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/boca_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_brow_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_hi_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_low_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_brow_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_hi_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_low_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/L_joelho_control
+        weight: 1
+      - path: grp_all/all_controls/L_leg_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control/L_punho_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control/nurbsCircle1
+        weight: 1
+      - path: grp_all/all_controls/R_joelho_control
+        weight: 1
+      - path: grp_all/all_controls/R_leg_control
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control/nurbsCircle2
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control/R_punho_control
+        weight: 1
+      - path: grp_all/all_joints
+        weight: 1
+      - path: grp_all/all_joints/root_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02/L_ind_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02/L_ind_joint03/L_ind_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02/L_mid_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02/L_mid_joint03/L_mid_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02/L_mindi_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02/L_mindi_joint03/L_mindi_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02/L_pol_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02/L_pol_joint03/L_pol_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_brow_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_brow_joint01/L_brow_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_hi_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_hi_eyelid_joint01/L_hi_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_low_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_low_eyelid_joint01/L_low_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/mouth_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/mouth_joint01/mouth_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/pontacabeca_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_brow_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_brow_joint01/R_brow_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_hi_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_hi_eyelid_joint01/R_hi_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_low_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_low_eyelid_joint01/R_low_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02/R_ind_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02/R_ind_joint03/R_ind_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02/R_mid_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02/R_mid_joint03/R_mid_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02/R_mindi_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02/R_mindi_joint03/R_mindi_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02/R_pol_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02/R_pol_joint03/R_pol_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint/L_pe_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint/L_pe_joint/L_pontape_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint/R_pe_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint/R_pe_joint/R_pontape_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: boy_clbr_levitate_IN
+      takeName: boy_clbr_animated
+      firstFrame: 301
+      lastFrame: 335
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy
+        weight: 1
+      - path: boy/body
+        weight: 1
+      - path: boy/dentes
+        weight: 1
+      - path: boy/eyes
+        weight: 1
+      - path: boy/eyes/hi_l_eyelid
+        weight: 1
+      - path: boy/eyes/hi_r_eyelid
+        weight: 1
+      - path: boy/eyes/l_brow
+        weight: 1
+      - path: boy/eyes/l_eye
+        weight: 1
+      - path: boy/eyes/low_l_eyelid1
+        weight: 1
+      - path: boy/eyes/low_r_eyelid
+        weight: 1
+      - path: boy/eyes/r_brow
+        weight: 1
+      - path: boy/eyes/r_eye
+        weight: 1
+      - path: boy/hair
+        weight: 1
+      - path: boy/lingua
+        weight: 1
+      - path: global_control
+        weight: 1
+      - path: grp_all
+        weight: 1
+      - path: grp_all/all_controls
+        weight: 1
+      - path: grp_all/all_controls/back_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/barriga_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/cintura_balanco_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/cintura_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo/L_clavicula_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo/R_clavicula_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/L_ombro_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/L_ombro_control/L_ik_cotovelo_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/R_ombro_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/R_ombro_control/R_ik_cotovelo_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/boca_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_brow_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_hi_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_low_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_brow_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_hi_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_low_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/L_joelho_control
+        weight: 1
+      - path: grp_all/all_controls/L_leg_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control/L_punho_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control/nurbsCircle1
+        weight: 1
+      - path: grp_all/all_controls/R_joelho_control
+        weight: 1
+      - path: grp_all/all_controls/R_leg_control
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control/nurbsCircle2
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control/R_punho_control
+        weight: 1
+      - path: grp_all/all_joints
+        weight: 1
+      - path: grp_all/all_joints/root_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02/L_ind_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02/L_ind_joint03/L_ind_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02/L_mid_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02/L_mid_joint03/L_mid_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02/L_mindi_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02/L_mindi_joint03/L_mindi_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02/L_pol_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02/L_pol_joint03/L_pol_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_brow_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_brow_joint01/L_brow_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_hi_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_hi_eyelid_joint01/L_hi_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_low_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_low_eyelid_joint01/L_low_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/mouth_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/mouth_joint01/mouth_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/pontacabeca_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_brow_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_brow_joint01/R_brow_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_hi_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_hi_eyelid_joint01/R_hi_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_low_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_low_eyelid_joint01/R_low_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02/R_ind_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02/R_ind_joint03/R_ind_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02/R_mid_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02/R_mid_joint03/R_mid_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02/R_mindi_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02/R_mindi_joint03/R_mindi_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02/R_pol_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02/R_pol_joint03/R_pol_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint/L_pe_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint/L_pe_joint/L_pontape_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint/R_pe_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint/R_pe_joint/R_pontape_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: boy_clbr_levitate_IDDLE
+      takeName: boy_clbr_animated
+      firstFrame: 340
+      lastFrame: 380
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy
+        weight: 1
+      - path: boy/body
+        weight: 1
+      - path: boy/dentes
+        weight: 1
+      - path: boy/eyes
+        weight: 1
+      - path: boy/eyes/hi_l_eyelid
+        weight: 1
+      - path: boy/eyes/hi_r_eyelid
+        weight: 1
+      - path: boy/eyes/l_brow
+        weight: 1
+      - path: boy/eyes/l_eye
+        weight: 1
+      - path: boy/eyes/low_l_eyelid1
+        weight: 1
+      - path: boy/eyes/low_r_eyelid
+        weight: 1
+      - path: boy/eyes/r_brow
+        weight: 1
+      - path: boy/eyes/r_eye
+        weight: 1
+      - path: boy/hair
+        weight: 1
+      - path: boy/lingua
+        weight: 1
+      - path: global_control
+        weight: 1
+      - path: grp_all
+        weight: 1
+      - path: grp_all/all_controls
+        weight: 1
+      - path: grp_all/all_controls/back_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/barriga_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/cintura_balanco_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/cintura_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo/L_clavicula_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo/R_clavicula_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/L_ombro_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/L_ombro_control/L_ik_cotovelo_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/R_ombro_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/R_ombro_control/R_ik_cotovelo_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/boca_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_brow_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_hi_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_low_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_brow_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_hi_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_low_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/L_joelho_control
+        weight: 1
+      - path: grp_all/all_controls/L_leg_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control/L_punho_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control/nurbsCircle1
+        weight: 1
+      - path: grp_all/all_controls/R_joelho_control
+        weight: 1
+      - path: grp_all/all_controls/R_leg_control
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control/nurbsCircle2
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control/R_punho_control
+        weight: 1
+      - path: grp_all/all_joints
+        weight: 1
+      - path: grp_all/all_joints/root_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02/L_ind_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02/L_ind_joint03/L_ind_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02/L_mid_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02/L_mid_joint03/L_mid_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02/L_mindi_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02/L_mindi_joint03/L_mindi_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02/L_pol_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02/L_pol_joint03/L_pol_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_brow_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_brow_joint01/L_brow_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_hi_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_hi_eyelid_joint01/L_hi_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_low_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_low_eyelid_joint01/L_low_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/mouth_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/mouth_joint01/mouth_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/pontacabeca_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_brow_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_brow_joint01/R_brow_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_hi_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_hi_eyelid_joint01/R_hi_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_low_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_low_eyelid_joint01/R_low_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02/R_ind_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02/R_ind_joint03/R_ind_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02/R_mid_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02/R_mid_joint03/R_mid_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02/R_mindi_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02/R_mindi_joint03/R_mindi_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02/R_pol_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02/R_pol_joint03/R_pol_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint/L_pe_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint/L_pe_joint/L_pontape_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint/R_pe_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint/R_pe_joint/R_pontape_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: boy_clbr_levitate_OUT
+      takeName: boy_clbr_animated
+      firstFrame: 381
+      lastFrame: 397
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy
+        weight: 1
+      - path: boy/body
+        weight: 1
+      - path: boy/dentes
+        weight: 1
+      - path: boy/eyes
+        weight: 1
+      - path: boy/eyes/hi_l_eyelid
+        weight: 1
+      - path: boy/eyes/hi_r_eyelid
+        weight: 1
+      - path: boy/eyes/l_brow
+        weight: 1
+      - path: boy/eyes/l_eye
+        weight: 1
+      - path: boy/eyes/low_l_eyelid1
+        weight: 1
+      - path: boy/eyes/low_r_eyelid
+        weight: 1
+      - path: boy/eyes/r_brow
+        weight: 1
+      - path: boy/eyes/r_eye
+        weight: 1
+      - path: boy/hair
+        weight: 1
+      - path: boy/lingua
+        weight: 1
+      - path: global_control
+        weight: 1
+      - path: grp_all
+        weight: 1
+      - path: grp_all/all_controls
+        weight: 1
+      - path: grp_all/all_controls/back_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/barriga_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/cintura_balanco_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/cintura_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo/L_clavicula_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/ClaviculaGrupo/R_clavicula_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/L_ombro_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/L_ombro_control/L_ik_cotovelo_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/R_ombro_control
+        weight: 1
+      - path: grp_all/all_controls/back_control/peito_control/R_ombro_control/R_ik_cotovelo_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/boca_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_brow_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_hi_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/L_low_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_brow_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_hi_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/cabeca_control/R_low_eyelid_control
+        weight: 1
+      - path: grp_all/all_controls/L_joelho_control
+        weight: 1
+      - path: grp_all/all_controls/L_leg_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control/L_punho_control
+        weight: 1
+      - path: grp_all/all_controls/L_mao_control/nurbsCircle1
+        weight: 1
+      - path: grp_all/all_controls/R_joelho_control
+        weight: 1
+      - path: grp_all/all_controls/R_leg_control
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control/nurbsCircle2
+        weight: 1
+      - path: grp_all/all_controls/R_mao_control/R_punho_control
+        weight: 1
+      - path: grp_all/all_joints
+        weight: 1
+      - path: grp_all/all_joints/root_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02/L_ind_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_ind_joint01/L_ind_joint02/L_ind_joint03/L_ind_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02/L_mid_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mid_joint01/L_mid_joint02/L_mid_joint03/L_mid_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02/L_mindi_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_mindi_joint01/L_mindi_joint02/L_mindi_joint03/L_mindi_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02/L_pol_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/L_clavicula_joint/L_braco_joint/L_cotovelo_joint/L_punho_joint/L_mao_joint/L_pol_joint01/L_pol_joint02/L_pol_joint03/L_pol_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_brow_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_brow_joint01/L_brow_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_hi_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_hi_eyelid_joint01/L_hi_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_low_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/L_low_eyelid_joint01/L_low_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/mouth_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/mouth_joint01/mouth_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/pontacabeca_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_brow_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_brow_joint01/R_brow_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_hi_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_hi_eyelid_joint01/R_hi_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_low_eyelid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/pescoco_joint/cabeca_joint/R_low_eyelid_joint01/R_low_eyelid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02/R_ind_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_ind_joint01/R_ind_joint02/R_ind_joint03/R_ind_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02/R_mid_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mid_joint01/R_mid_joint02/R_mid_joint03/R_mid_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02/R_mindi_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_mindi_joint01/R_mindi_joint02/R_mindi_joint03/R_mindi_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02/R_pol_joint03
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/espinha_02/espinha_03/R_clavicula_joint/R_braco_joint/R_cotovelo_joint/R_punho_joint/R_mao_joint/R_pol_joint01/R_pol_joint02/R_pol_joint03/R_pol_joint04
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint/L_pe_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/L_virilha_joint/L_joelho_joint/L_calcanhar_joint/L_pe_joint/L_pontape_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint/R_pe_joint
+        weight: 1
+      - path: grp_all/all_joints/root_joint/espinha_01/R_virilha_joint/R_joelho_joint/R_calcanhar_joint/R_pe_joint/R_pontape_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
